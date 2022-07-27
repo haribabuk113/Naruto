@@ -10,3 +10,6 @@ Peanuts
 Panner
 Soya Chunks
 Potato
+added in production branch
+Naruot
+Kakashi
